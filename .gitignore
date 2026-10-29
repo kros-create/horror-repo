@@ -1,0 +1,22 @@
+# generated project work
+projects/
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
+!examples/**/keep.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# secrets
+.env
+*.key
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
